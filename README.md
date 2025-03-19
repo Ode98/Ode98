@@ -1,1 +1,1 @@
-![Tahkovuori](/assets/tahko_cropped.jpg "Tahkovuori")
+![Matrix](/assets/matrix.gif "Matrix")
