@@ -1,1 +1,1 @@
-![Matrix](/assets/matrix.gif "Matrix")
+![Pixel Mario](/assets/pixel-mario.gif "Pixel Mario")
