@@ -1,1 +1,1 @@
-![Beijing at night](/assets/beijing_cropped.jpg "Beijing at night")
+![Tahkovuori](/assets/tahko_cropped.jpg "Tahkovuori")
