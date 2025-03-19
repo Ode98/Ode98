@@ -1,1 +1,1 @@
-![Pixel Mario](/assets/pixel-mario.gif "Pixel Mario")
+<img alt="Pixel mario" src="/assets/pixel-mario.gif" width="100%" />
